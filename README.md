@@ -14,6 +14,7 @@
 
 # Выравнивание гистонов 
 ## H2A
+![1](https://github.com/alkmnd/hse23_project/raw/main/img/H2A.img)
 ## H2B
 ## H3
 ## H4
