@@ -14,13 +14,19 @@
 
 # Выравнивание гистонов 
 ## H2A
-![1](https://github.com/alkmnd/hse23_project/raw/main/img/H2A.img)
+![1](https://github.com/alkmnd/hse23_project/raw/main/img/H2A.jpg)
 ## H2B
+![2](https://github.com/alkmnd/hse23_project/raw/main/img/H2B.jpg)
 ## H3
+![3](https://github.com/alkmnd/hse23_project/raw/main/img/H3.jpg)
 ## H4
+![4](https://github.com/alkmnd/hse23_project/raw/main/img/H4.jpg)
 
 # Таблицы
-
+## E-value
+![5](https://github.com/alkmnd/hse23_project/raw/main/img/e_value.jpg)
+## -log(E-value)
+![6](https://github.com/alkmnd/hse23_project/raw/main/img/log_e_value.jpg)
 # Тепловая карта 
-
+![7](https://github.com/alkmnd/hse23_project/raw/main/img/hitmap.jpg)
 # Выводы
