@@ -28,5 +28,5 @@
 ## -log(E-value)
 ![6](https://github.com/alkmnd/hse23_project/raw/main/img/log_e_value.png)
 # Тепловая карта 
-![7](https://github.com/alkmnd/hse23_project/raw/main/img/hitmap.jpg)
+![7](https://github.com/alkmnd/hse23_project/raw/main/img/hitmap.png)
 # Выводы
