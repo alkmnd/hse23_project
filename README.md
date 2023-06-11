@@ -36,3 +36,4 @@
 # Тепловая карта 
 ![7](https://github.com/alkmnd/hse23_project/raw/main/img/hitmap.png)
 # Выводы
+Судя по тепловой карте, признаки CCDC101 (он же SGF29) появляются в организме c. elegans, у организма drosophila признаки данного белка проявляются сильнее всего.
