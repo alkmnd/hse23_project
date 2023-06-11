@@ -12,6 +12,8 @@
 
 "SGF29 (CCDC101) specifically recognizes and binds methylated 'Lys-4' of histone H3 (H3K4me), with a preference for trimethylated form (H3K4me3)... In the SAGA-type complexes, SGF29 is required to recruit complexes to H3K4me…”
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160252/
+
 # Выравнивание гистонов 
 ## H2A
 ![1](https://github.com/alkmnd/hse23_project/raw/main/img/H2A.jpg)
