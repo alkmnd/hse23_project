@@ -14,6 +14,8 @@
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3160252/
 
+https://www.genecards.org/cgi-bin/carddisp.pl?gene=SGF29
+
 # Выравнивание гистонов 
 ## H2A
 ![1](https://github.com/alkmnd/hse23_project/raw/main/img/H2A.jpg)
